@@ -1,6 +1,6 @@
 ## Estudiantes - Students  
 
-Nombre 1 (Name 1): 
+Nombre 1 (Name 1): Juan Garcia de Paredes Dupuy
 
 Nombre 2 (Name 2):
 
